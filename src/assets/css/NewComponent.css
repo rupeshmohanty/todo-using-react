@@ -1,0 +1,19 @@
+.form {
+    margin-top: 60px !important;
+}
+
+.container {
+    margin-top: 60px !important;
+}
+
+img {
+    margin-left: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    img {
+        width: 360px;
+        margin-top: 10px;
+        height: 300px;
+    }
+}
